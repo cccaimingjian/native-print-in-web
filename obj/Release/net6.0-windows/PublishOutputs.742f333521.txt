@@ -1,0 +1,11 @@
+C:\Users\cccai\Desktop\release\x64\pdfium.dll
+C:\Users\cccai\Desktop\release\x86\pdfium.dll
+C:\Users\cccai\Desktop\release\native-print-in-web.exe
+C:\Users\cccai\Desktop\release\native-print-in-web.dll
+C:\Users\cccai\Desktop\release\native-print-in-web.deps.json
+C:\Users\cccai\Desktop\release\native-print-in-web.runtimeconfig.json
+C:\Users\cccai\Desktop\release\native-print-in-web.pdb
+C:\Users\cccai\Desktop\release\Fleck.dll
+C:\Users\cccai\Desktop\release\Newtonsoft.Json.dll
+C:\Users\cccai\Desktop\release\PdfiumViewer.dll
+C:\Users\cccai\Desktop\release\nl\PdfiumViewer.resources.dll
